@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\tobisAtm\bin\Debug\net6.0-windows\tobisAtm.exe
+C:\Users\DELL\source\repos\tobisAtm\bin\Debug\net6.0-windows\tobisAtm.deps.json
+C:\Users\DELL\source\repos\tobisAtm\bin\Debug\net6.0-windows\tobisAtm.runtimeconfig.json
+C:\Users\DELL\source\repos\tobisAtm\bin\Debug\net6.0-windows\tobisAtm.dll
+C:\Users\DELL\source\repos\tobisAtm\bin\Debug\net6.0-windows\tobisAtm.pdb
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.Form1.resources
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.AssemblyInfo.cs
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.dll
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\refint\tobisAtm.dll
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.pdb
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\tobisAtm.genruntimeconfig.cache
+C:\Users\DELL\source\repos\tobisAtm\obj\Debug\net6.0-windows\ref\tobisAtm.dll
